@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void GoodMorning()
 {
     cout << "Good-Morning HomeWork!\n"; 
-	system("pause");
 }

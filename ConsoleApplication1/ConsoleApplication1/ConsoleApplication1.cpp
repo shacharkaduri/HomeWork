@@ -2,12 +2,14 @@
 //
 
 #include "pch.h"
+#include "GoodMorning.cpp"
 #include <iostream>
 using namespace std;
 
 int main()
 {
     cout << "Hello World!\n"; 
+	GoodMorning();
 	system("pause");
 }
 
