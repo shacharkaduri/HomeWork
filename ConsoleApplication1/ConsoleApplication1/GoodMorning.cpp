@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Good-Morning HomeWork\n"; 
+    cout << "Good-Morning HomeWork!\n"; 
 	system("pause");
 }
